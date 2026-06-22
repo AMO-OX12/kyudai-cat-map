@@ -42,7 +42,7 @@ if(!mapElement) return;
 const viewMap =
 L.map("view-map")
 .setView(
-[33.5904,130.2220],
+[33.5930,130.2195],
 16
 );
 
