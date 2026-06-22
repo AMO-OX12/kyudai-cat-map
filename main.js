@@ -42,8 +42,8 @@ if(!mapElement) return;
 const viewMap =
 L.map("view-map")
 .setView(
-[33.6000,130.2195],
-16
+[33.5990,130.2195],
+17
 );
 
 L.tileLayer(
